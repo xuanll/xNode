@@ -1,3 +1,5 @@
-Hello Node.js
+# 简介及目录
 
-start this project on Wensday 28/3/2018.
+Hello `Node.js`
+
+start this project on Wensday `28/3/2018`.
